@@ -4,16 +4,16 @@
   "description": "A JS Jekyll clone",
   "main": "app.js",
   "dependencies": {
-    "bunyan": "1.4.0",
-    "config": "1.17.1",
-    "dateformat": "1.0.12",
-    "es6-promise": "3.0.2",
-    "highlight.js": "9.0.0",
-    "js-yaml": "3.4.6",
-    "liquid-node": "2.6.1",
-    "marked": "0.3.5",
-    "node-static": "0.7.7",
-    "rimraf": "2.5.0"
+    "bunyan": "^1.8.12",
+    "config": "^1.30.0",
+    "dateformat": "^1.0.12",
+    "es6-promise": "^3.3.1",
+    "highlight.js": "^9.12.0",
+    "js-yaml": "^3.11.0",
+    "liquid-node": "^2.6.1",
+    "marked": "^0.3.17",
+    "node-static": "^0.7.10",
+    "rimraf": "^2.6.2"
   },
   "author": "Damian Connolly <divilly.sausages@gmail.com> (http://divillysausages.com)",
   "repository": {
@@ -23,6 +23,5 @@
   "keywords": [
     "Jekyll"
   ],
-  "license": "UNLICENSED",
-  "private": true
+  "license": "UNLICENSED"
 }
